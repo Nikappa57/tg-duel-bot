@@ -1,0 +1,2 @@
+class EmojiList:
+    emoji = ['🎲', '🎯', '🏀', '⚽']
