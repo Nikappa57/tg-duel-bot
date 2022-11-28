@@ -20,6 +20,7 @@ This bot uses my base
 1. use `/addreaction (level) (text`
     
     `level = 1` the user makes the minimum of points
+    
     `level = 2` the user makes the most
 2. use `/reaction` to manage the added reactions
 #### Stats
